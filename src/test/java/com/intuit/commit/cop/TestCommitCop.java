@@ -4,6 +4,7 @@ import junit.framework.Assert;
 
 import org.junit.Test;
 
+// Test comment
 
 public class TestCommitCop {
 
